@@ -7,7 +7,7 @@ In this project, I've created a simple portofolio website (unofficial) With Anim
 
 
 
-![alt text](https://github.com/Mazencloud/Mayra-Website/blob/main/images/Mayra%20Website.gif?raw=true)
+![alt text](https://github.com/Mazencloud/Mayra-Website/blob/main/images/Mayra%20Website.gif?raw=true =100x20)
 
 ## Tech Stack
 
