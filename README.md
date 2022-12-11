@@ -1,7 +1,7 @@
 ![Logo](https://github.com/Mazencloud/Mayra-Website/blob/main/images/logo.png?raw=true)
 
 
-# HomeVerse Website
+# Mayra Website
 
 In this project, I've created a simple portofolio website (unofficial) With Animated Text Effect.
 
