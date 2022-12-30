@@ -19,7 +19,7 @@ In this project, I've created a simple portofolio website (unofficial) With Anim
 
 
 ## 🚀 About Me
-I am a full-stack engineer with skills in a variety of coding languages and design tools. competent in writing secure, clean code that is customized to the requirements of each customer. concentrated on providing creative, user-friendly designs that please clients.
+I am a frontend developer with skills in a variety of coding languages and design tools. competent in writing secure, clean code that is customized to the requirements of each customer. concentrated on providing creative, user-friendly designs that please clients.
 
 
 ## 🔗 Links
